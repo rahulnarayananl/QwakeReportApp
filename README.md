@@ -14,11 +14,6 @@ Getting Started
 This sample uses the Gradle build system. To build this project, use the
 "gradlew build" command or use "Import Project" in Android Studio.
 
-<div align="center">
-    <img src="Screenshots/normal.png" width="300px"</img> 
-    <img src="Screenshots/no_internet.png" width="300px"</img>
- <img src="Screenshots/loading.png" width="300px"</img> 
-</div>
 
 What I've learned :
 --------------------
@@ -31,3 +26,13 @@ Reading and parsing JSON data.
 Customizing ListViews,using ArrayLists & ArrayAdapters.
 
 Using progress bar and listview empty for better UX.
+
+Screeshots
+----------
+
+<div align="center">
+    <img src="Screenshots/normal.png" width="300px"</img> 
+    <img src="Screenshots/no_internet.png" width="300px"</img>
+ <img src="Screenshots/loading.png" width="300px"</img> 
+</div>
+
